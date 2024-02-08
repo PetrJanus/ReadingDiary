@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/ReadingDiary/static/css/main.31d6cfe0.css",
+    "main.js": "/ReadingDiary/static/js/main.35818dc5.js",
+    "index.html": "/ReadingDiary/index.html",
+    "main.35818dc5.js.map": "/ReadingDiary/static/js/main.35818dc5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.35818dc5.js"
+  ]
+}
